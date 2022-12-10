@@ -1,4 +1,4 @@
-![Final-Image](https://user-images.githubusercontent.com/84449238/206859778-88bea8b7-367d-4605-81ce-97bb60d63b49.jpg)
+![Final-Image](https://user-images.githubusercontent.com/84449238/206859865-340ce021-c890-4947-b7ce-e99bdc396b6f.jpg)
 
 # Build-Model-Process-and-Detect-Potholes-From-Image-AnalyticsVidhya
 
